@@ -1,3 +1,5 @@
 bbbb
 
 Solving bug 1
+
+There is a new way to calculated fees
